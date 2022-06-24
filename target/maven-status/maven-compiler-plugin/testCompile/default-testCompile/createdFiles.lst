@@ -1,0 +1,6 @@
+utilities\XLUtility.class
+testbase\BaseClass.class
+utilities\ExtentReportManager.class
+testcase\TC01_LoginDDT.class
+pageobj\Loginpage.class
+testcase\TC01_Login.class
